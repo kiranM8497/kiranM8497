@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Kiran Muttanwar (Potato)
-- 👨‍💻   Software Developer | Passionate Learner | CDAC Bangalore Rank Holder 🥇
+- 👋 <h1>Hello World , Kiran Here</h1>
+- 👨‍💻 Software Developer |  CDAC Bangalore Rank Holder 🥇
+  <strong><i><h2>TechStack</h2></i></strong>
+  <br>
+  ![image](https://github.com/kiranM8497/kiranM8497/assets/109595152/560ca54c-7b68-4c50-a269-523645260866)
 
-🚀 Java, SpringBoot, HTML, CSS, JS, React, Redux | SQL | DSA
+ <h3>🔍 Currently honing React and Nodejs skills, future plans: TypeScript,Next.js, GraphQL</h3>
 
-🔍 Currently honing React skills, future plans: Next.js, GraphQL & cutting-edge tech enthusiast.
+<h4>🌱 Always eager to embrace new technologies and challenges! Let's build the future together! 🚀</h4>
 
-🌱 Always eager to embrace new technologies and challenges! Let's build the future together! 🚀
+Random Quote:
+</br>
+![image](https://github.com/kiranM8497/kiranM8497/assets/109595152/536a0d52-8ba4-427a-9456-949d375d6979)
 
--
 
 <!---
 kiranM8497/kiranM8497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
