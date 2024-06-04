@@ -1,4 +1,4 @@
-- 👋 <h1>Hello World , Kiran Here</h1>
+- 👋 <h1>Hey There, Kiran Here</h1>
 - 👨‍💻 Software Developer |  CDAC Bangalore Rank Holder 🥇
   <strong><i><h2>TechStack</h2></i></strong>
   <br>
